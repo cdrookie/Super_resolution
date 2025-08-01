@@ -23,3 +23,5 @@ pip install -r requirements.txt
 # 这样就可以移植配置环境了
 
 # test脚本使用命令 python test_realESRGAN_fdconv.py --input 输入图片路径 --output 输出图片路径
+
+# 下载OST数据集：https://drive.google.com/drive/folders/1LIb631GU3bOyQVTeuALesD8_eoApNniB
